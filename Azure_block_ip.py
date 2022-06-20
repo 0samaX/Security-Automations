@@ -1,4 +1,4 @@
-""" This Script for eradication action of blocking client ip address on azure identity and access management """
+""" This Script for automating one of the eradication action by blocking client ip address on azure identity and access management """
              ''' This integration is developed by Osama Elsherbiny ''' 
         ''' Linkedin: https://www.linkedin.com/in/osama-elsherbiny-a92386152/ '''
 
