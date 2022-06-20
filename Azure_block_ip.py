@@ -6,9 +6,6 @@ import json
 from typing import Any, Dict, Tuple, List, Optional, Union, cast
 import requests
 
-# Disable insecure warnings
-urllib3.disable_warnings()
-
 ''' Sentinel Credentials '''
 client_id = 'Client ID Here!'
 client_secret = 'Client Secret Here!'
